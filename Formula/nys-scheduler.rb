@@ -1,8 +1,8 @@
 class NysScheduler < Formula
   desc "Simple task scheduling and automation for MacOS & Linux"
   homepage "https://github.com/NateSeymour/scheduler"
-  url "https://github.com/NateSeymour/scheduler/archive/refs/tags/v0.0.2.tar.gz"
-  sha256 "bd4180609480fc591c229903a3a512a608d2b5f93799da4104d454667e426fde"
+  url "https://github.com/NateSeymour/scheduler/archive/refs/tags/v0.0.5.tar.gz"
+  sha256 "9b82437ebe2484972f382c374ec4bae62888843bce297d9d4b84f2ac83eb9d18"
   license "MIT"
 
   depends_on "sqlite"
